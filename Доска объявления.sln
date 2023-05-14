@@ -37,6 +37,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositorie
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Usersrs", "Usersrs", "{A3039E1F-7068-4B6B-B6F4-0B6D078EDF1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Board.Host.Api", "..\..\пустой проект\Доска объявления\Доска объявления\src\Board\Host\Board.Host.Api\Board.Host.Api.csproj", "{7B61609E-06D8-4526-A3AE-C1B788E10A8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1B05D652-3663-4DCF-B3F4-7731C7D17A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B05D652-3663-4DCF-B3F4-7731C7D17A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B05D652-3663-4DCF-B3F4-7731C7D17A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B61609E-06D8-4526-A3AE-C1B788E10A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B61609E-06D8-4526-A3AE-C1B788E10A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B61609E-06D8-4526-A3AE-C1B788E10A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B61609E-06D8-4526-A3AE-C1B788E10A8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,6 +90,7 @@ Global
 		{0A11B2D8-64EC-49A9-A100-25AEFE20C9AA} = {BDB07FBF-A9B3-4BC1-86DB-E1D4AA75233D}
 		{7C91BFF2-9F41-4336-9750-34FFFCC67945} = {0A11B2D8-64EC-49A9-A100-25AEFE20C9AA}
 		{A3039E1F-7068-4B6B-B6F4-0B6D078EDF1F} = {2D6398D9-1637-4A4B-9165-5886B1CF1F18}
+		{7B61609E-06D8-4526-A3AE-C1B788E10A8C} = {1F017ABB-2170-40AD-A5A7-18D6A09A556F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4EE64F78-C44D-443E-8D96-F02404C27C15}
